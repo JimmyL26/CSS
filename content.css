@@ -1,24 +1,59 @@
 .page {
-  width:
-  height:
+  width: 410px;
+  height: 625px;
+  background-color: #D3D0CB;
 }
 
 #article_title {
-
+  font-family: Anton; 
+  color: #461220;
+  letter-spacing: 5px;
+  padding-top: 25px;
+  padding-left: 22px;
+  font-size: 32px;
+  text-shadow: 2px 2px 8px #8C2F39;
 }
 
 #intro {
-
+  color: #8C2F39;
+  font-family: Oswald; 
+  line-height: 36px;
+  padding-left: 22px;
+  padding-right: 24px;
+  border: solid;
+  border-radius: 30px;
+  box-shadow: 0.5px 0.5px 0.5px red;
+  ;
 }
 
 .question{
-
+  font-family: Arial;
+  font-weight: 800;
+  color: #4C5760;
+  letter-spacing: -0.5px;
+  padding-left: 10px;
+  padding-right: 15px;
+  line-height: 15px;
+  margin-bottom: 4px;
+  margin-top: 4px;
 }
 
 .answer{
-
+  font-family: Arial;
+  color: #4C5760;
+  padding-left: 10px;
+  margin-top: 4px;
 }
 
 #block_quote {
-
+  font-family: Oswald; 
+  color: #8C2F39;
+  font-size: 22px;
+  padding-left: 5px;
+  padding-right: 55px;
+  margin-top: 0px;
+  margin-bottom: 25px;
+  margin-left: 100px;
+  border-left: solid;
+  border-left-color: #4C5760;
 }
